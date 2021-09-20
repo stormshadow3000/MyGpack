@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<a href = "https://heroku.com/deploy?template=https://github.com/code-pms/MyGpack"><img src="https://www.herokucdn.com/deploy/button.svg" alt="MyGpac"> </a>
+<a href = "https://heroku.com/deploy?template=https://github.com/Stormshadow3000/MyGpack"><img src="https://www.herokucdn.com/deploy/button.svg" alt="MyGpac"> </a>
 
 </p>
 
