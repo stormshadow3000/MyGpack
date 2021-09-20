@@ -1,4 +1,15 @@
-{
+ {
+   "name": "userge x",
+  "description": "A simple userbot",
+  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "keywords": [
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/stormshadow3000/USERGE-X.git",
+  "website": "#TODO",
+  "success_url": "#TODO",
 	"env": {
 		"API_ID": {
 			"description": "Get this value from https://my.telegram.org"
